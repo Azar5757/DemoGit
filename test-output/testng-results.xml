@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-30T10:26:09 PDT" name="Default suite" finished-at="2020-09-30T10:26:09 PDT" duration-ms="219">
+  <suite started-at="2020-09-30T14:07:45 PDT" name="Default suite" finished-at="2020-09-30T14:07:46 PDT" duration-ms="167">
     <groups>
     </groups>
-    <test started-at="2020-09-30T10:26:09 PDT" name="Default test" finished-at="2020-09-30T10:26:09 PDT" duration-ms="219">
-      <class name="com.basic.Add">
-        <test-method signature="sum()[pri:0, instance:com.basic.Add@2928854b]" started-at="2020-09-30T10:26:09 PDT" name="sum" finished-at="2020-09-30T10:26:09 PDT" duration-ms="48" status="PASS">
+    <test started-at="2020-09-30T14:07:45 PDT" name="Default test" finished-at="2020-09-30T14:07:46 PDT" duration-ms="167">
+      <class name="NewMaven.NewMaven.Search">
+        <test-method signature="add()[pri:0, instance:NewMaven.NewMaven.Search@27ae2fd0]" started-at="2020-09-30T14:07:46 PDT" name="add" finished-at="2020-09-30T14:07:46 PDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="sum()[pri:0, instance:NewMaven.NewMaven.Search@27ae2fd0]" started-at="2020-09-30T14:07:46 PDT" name="sum" finished-at="2020-09-30T14:07:46 PDT" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sum -->
-      </class> <!-- com.basic.Add -->
+      </class> <!-- NewMaven.NewMaven.Search -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
