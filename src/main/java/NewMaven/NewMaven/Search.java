@@ -8,12 +8,18 @@ public class Search {
 	
 	@Test
 	public void sum() {
+		int i =10;
+		int j=20;
+		int k = i+j;
 		
-		System.out.println("sum");
+		System.out.println(k);
 	}
 	@Test
 	public void add() {
-		System.out.println("add");
+		int l=100;
+		int m=200;
+		int n=l+m;
+		System.out.println(n);
 	}
 
 }
